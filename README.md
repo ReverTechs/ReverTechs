@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Blessings REVER Chilemba @ReverTechs
+- 👋 Hi, I’m Blessings Chilemba @Rever
 - 👀 I’m interested in software systems & ML
 - 🌱 I’m currently learning backend, AI & ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vist ~ https://wa.link/smirhm
-- 😄 Pronouns: Him/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like coding when I'm feeling quiting it
 - 👌 Status: Single
 <!---
