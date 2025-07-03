@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vist ~ https://wa.link/smirhm
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like coding when I'm feeling like quiting it
+- ⚡ Fun fact: I like coding when I'm feeling like quiting it ...
 - 👌 Status: Single
 <!---
 ReverTechs/ReverTechs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
