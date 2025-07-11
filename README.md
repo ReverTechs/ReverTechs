@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Blessings Chilemba @Rever
+- 👋 Hi, I’m Blessings Chilemba ~REVER
 - 👀 I’m interested in software systems & ML
 - 🌱 I’m currently learning backend, AI & ML
 - 💞️ I’m looking to collaborate on ...
