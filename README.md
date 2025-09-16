@@ -1,4 +1,4 @@
-- 👋 Hi, I’m REVER
+- 👋 Hi, I’m REVER 😊
 - 👀 I’m interested in software systems, & ML
 - 🌱 I’m currently learning backend, AI & ML
 - 💞️ I’m looking to collaborate on...
