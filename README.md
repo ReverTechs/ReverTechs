@@ -6,6 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like coding when I'm feeling like quiting it
 - 👌 Status: Single...✨️
+- This is my officialportfolio website 🔗 https://rever-official.netlify.app/
 <!---
 ReverTechs/ReverTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
