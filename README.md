@@ -1,4 +1,4 @@
-# 💫 About Me 🫆
+# 💫 About Me:
 - 👀 I’m interested in software systems, AI & ML Engineering<br>- 🌐 My portifolio: https://rever-portifolio2.netlify.app<br>- 🌱 I’m currently learning buildng projects!<br>- 💞️ I’m looking to collaborate on....<br>- 📫 WhatsApp   https://wa.link/smirhm<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I like coding when I'm feeling like quiting it<br>- 👌 Status: 
 
 ## 🌐 Socials:
